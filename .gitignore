@@ -1,0 +1,13 @@
+# Spring Boot / Java
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/*.log
+backend/.mvn/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Base de datos o archivos grandes
+BBDD/*.db
+BBDD/*.sqlite
