@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "X Madrid Hotel",
+    "subtitle": "Urban hotel in the heart of Madrid. Contemporary design, local experiences and maximum lifestyle comfort.",
+    "cta": "Book now"
+  },
+  "about": {
+    "kicker": "About the hotel",
+    "title": "Contemporary luxury in the heart of Madrid",
+    "text1": "X Madrid Hotel combines modern design, premium comfort and a privileged location to offer a unique urban experience.",
+    "text2": "Carefully designed spaces, personalized services and an elegant atmosphere define our way of understanding hospitality."
+  },
+  "nav": {
+    "hotel": "Hotel",
+    "madrid": "Madrid",
+    "servicios": "Services",
+    "tienda": "Shop"
+  },
+  "rooms": {
+  "kicker": "Rooms",
+  "title": "Spaces designed for rest",
+  "subtitle": "Contemporary design, premium comfort and refined details.",
+  "deluxe": {
+    "title": "Deluxe Room",
+    "text": "Modern elegance with all essential comforts."
+  },
+  "suite": {
+    "title": "Suite",
+    "text": "Spacious layouts, natural light and a superior experience."
+  },
+  "premium": {
+    "title": "Premium Room",
+    "text": "Exclusive comfort for special stays."
+  }
+}
+
+}
